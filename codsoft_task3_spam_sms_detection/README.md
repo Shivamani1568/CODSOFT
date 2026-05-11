@@ -1,4 +1,5 @@
-# Task 3: SMS Spam Detection
+git add -A
+git status# Task 3: SMS Spam Detection
 
 This is my third task for the CodSoft Machine Learning Internship. The goal was to build a model that can classify SMS messages as either spam or legitimate (ham), using TF-IDF features and classical ML classifiers.
 
