@@ -7,7 +7,7 @@ Three tasks in here, each in its own folder. Each folder has its own README with
 ## Tasks
 
 1. **task1_fraud_detection** — credit card fraud detection using Logistic Regression, Decision Tree, and Random Forest. Done.
-2. **task2** — in progress
+2. **task2_churn_prediction** — customer churn prediction for a bank using Logistic Regression, Random Forest, and Gradient Boosting. Done.
 3. **task3** — in progress
 
 ## Setup
