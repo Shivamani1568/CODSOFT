@@ -8,7 +8,7 @@ Three tasks in here, each in its own folder. Each folder has its own README with
 
 1. **task1_fraud_detection** — credit card fraud detection using Logistic Regression, Decision Tree, and Random Forest. Done.
 2. **task2_churn_prediction** — customer churn prediction for a bank using Logistic Regression, Random Forest, and Gradient Boosting. Done.
-3. **task3** — in progress
+3. **task3_spam_detection** — SMS spam classification using TF-IDF features with Naive Bayes, Logistic Regression, and Linear SVM on the UCI SMS Spam Collection dataset. Done.
 
 ## Setup
 
