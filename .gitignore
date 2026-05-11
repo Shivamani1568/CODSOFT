@@ -1,0 +1,16 @@
+# Dataset CSVs (too large for GitHub)
+**/fraudTrain.csv
+**/fraudTest.csv
+*.zip
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
